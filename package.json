@@ -1,0 +1,9 @@
+{
+  "name": "react-scrollable-modal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AsPulse/react-scrollable-modal.git",
+  "author": "aspulse <aspulse.x@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.1"
+}

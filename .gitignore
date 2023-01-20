@@ -1,3 +1,8 @@
+# Editor
+.yarn/*
+!.yarn/releases/
+!.yarn/plugins/
+
 # Logs
 logs
 *.log
